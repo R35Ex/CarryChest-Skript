@@ -1,7 +1,8 @@
 # 📦 CarryChest - Free Skript
 
 
---  
+<img width="1024" height="512" alt="CarryChest" src="https://github.com/user-attachments/assets/c2369ff6-8110-481e-83fd-77f43e4c623c" />
+
 
   
 Tired of moving your items back and forth? **CarryChest** is a lightweight, zero-lag Skript that allows players to pick up Chests and Barrels (along with their entire inventory) and carry them on their heads!
