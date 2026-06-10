@@ -6,7 +6,7 @@
   
 Tired of moving your items back and forth? **CarryChest** is a lightweight, zero-lag Skript that allows players to pick up Chests and Barrels (along with their entire inventory) and carry them on their heads!
 
-🌟 **Looking for more?** If you want to carry **Mobs (Villagers, Animals)** and other **decorative blocks (Anvils, Spawners, Glass, etc.)**, check out our **Premium Version**: [AdvancedCarry on BuiltByBit](link)
+🌟 **Looking for more?** If you want to carry **Mobs (Villagers, Animals)** and other **decorative blocks (Anvils, Bookshelf, Glass, etc.)**, check out our **Premium Version**: [AdvancedCarry on BuiltByBit](link)
 
 ## ✨ Features
 - **Carry Full Containers**: Pick up Chests, Barrels, and Trapped Chests without dropping a single item.
